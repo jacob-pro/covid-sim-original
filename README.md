@@ -2,7 +2,10 @@
 
 Resources relating to Neil Ferguson's https://github.com/mrc-ide/covid-sim and its original source code
 
-NOTE: Code was obtained from https://drive.google.com/file/d/1cwTDgvUA-qs3ovOOz8JafQZEI8vZ0CiE/view
+Code was obtained from https://drive.google.com/file/d/1cwTDgvUA-qs3ovOOz8JafQZEI8vZ0CiE/view
+
+The Report / Paper: \
+[Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 
 Relevant GitHub issues:
 
