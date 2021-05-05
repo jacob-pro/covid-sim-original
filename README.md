@@ -13,7 +13,7 @@ Relevant GitHub issues:
 
 Relevant FOI Requests:
 
-- [Full version controlled source code for Covid19 Model](https://www.whatdotheyknow.com/request/full_version_controlled_source_c)
-- [Software code used for the COVID-19 simulation models](https://www.whatdotheyknow.com/request/software_code_used_for_the_covid)
-- [Please publish the original source code for the model used by Prof Ferguson to model the COVID19 progression](https://www.whatdotheyknow.com/request/please_publish_the_original_sour#incoming-1583597)
-- [Contract with Microsoft and GitHub](https://www.whatdotheyknow.com/request/contract_with_microsoft_and_gith)
+- 17/03/2020 Julian Todd [Software code used for the COVID-19 simulation models](https://www.whatdotheyknow.com/request/software_code_used_for_the_covid)
+- 06/05/2020 Dan Dennis [Please publish the original source code for the model used by Prof Ferguson to model the COVID19 progression](https://www.whatdotheyknow.com/request/please_publish_the_original_sour)
+- 11/05/2020 Paul-Olivier Dehaye [Contract with Microsoft and GitHub](https://www.whatdotheyknow.com/request/contract_with_microsoft_and_gith)
+- 22/05/2020 Sarjan Narwan [Full version controlled source code for Covid19 Model](https://www.whatdotheyknow.com/request/full_version_controlled_source_c)
