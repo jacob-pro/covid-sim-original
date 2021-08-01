@@ -1,6 +1,8 @@
 # covid-sim-original
 
-Resources relating to Neil Ferguson's https://github.com/mrc-ide/covid-sim and its original source code
+Resources relating to Neil Ferguson's https://github.com/mrc-ide/covid-sim and its original source code.
+
+**Nothing here is my own work** - this repository is just here to provide a public archive the history of the simulator.
 
 Code was obtained from https://drive.google.com/file/d/1cwTDgvUA-qs3ovOOz8JafQZEI8vZ0CiE/view
 
